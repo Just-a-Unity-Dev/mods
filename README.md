@@ -9,7 +9,7 @@ A repository for all of the mods I have made in different games.
   This repository (and all my mods) are hosted under the GNU Public License v3. You are able to download, use and modify my code as long as you do not distribute closed source versions. This means if you modify my code, you MUST make it open source.
 </details>
 
-# Q&A
+# FAQ
 
 ### Q: can i modify your code?
 
