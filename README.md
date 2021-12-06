@@ -1,4 +1,6 @@
-[![Shields](https://img.shields.io/github/issues/Just-a-Unity-Dev/mods)
+[!Issues](https://img.shields.io/github/issues/Just-a-Unity-Dev/mods)
+[!LastCommit](https://img.shields.io/github/last-commit/Just-a-Unity-Dev/mods)
+[!Stars](https://img.shields.io/github/stars/Just-a-Unity-Dev/mods)
 
 # Mods
 A repository for all of the mods I have made in different games.
