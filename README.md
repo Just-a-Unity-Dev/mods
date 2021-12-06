@@ -14,5 +14,5 @@ A repository for all of the mods I have made in different games.
 Q: can i modify your code?
 <details>
   <summary>A: yes but you must make it open source</summary>
-  read [this](#-License)
+  read [this](#License)
 </details>
