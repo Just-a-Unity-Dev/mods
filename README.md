@@ -12,8 +12,12 @@ A repository for all of the mods I have made in different games.
 # Q&A
 
 Q: can i modify your code?
-<details>
-  <summary>A: yes but you must make it open source</summary>
-</details>
+A: yes but you must make it open source. read [this](#license) for more info
 
-  read [this](#license)!
+Q: am i allowed to download your mods but not modify them?
+A: of course!
+
+Q: how do I download a specific mod?
+A: these may help you
+- [folder downloader 1](https://download-directory.github.io/)
+- [stack overflow thread](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)
