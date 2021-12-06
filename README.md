@@ -12,19 +12,27 @@ A repository for all of the mods I have made in different games.
 # Q&A
 
 Q: can i modify your code?
+
 A: yes but you must make it open source. read [this](#license) for more info
 
+
 Q: am i allowed to download your mods but not modify them?
+
 A: of course!
 
 Q: how do I download a specific mod?
+
 A: i upload releases onto Steam, and if I cant go to steam. I upload to github releases! these may also help you:
 - [folder downloader 1](https://download-directory.github.io/)
 - [stack overflow thread](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)
 - [github releases](https://github.com/Just-a-Unity-Dev/mods/releases)
+- 
 
 Q: i have an error in my console/debug log/whatever, what do I do?
+
 A: create an issue with the error name, Column and Row number and the entire debug console. i will try my best to fix it
 
+
 Q: can I fix errors and possibly become a contributor?
+
 A: infact, yes! solving errors for me makes my job SO much easier, so thank you!
