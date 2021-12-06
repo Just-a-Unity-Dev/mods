@@ -1,4 +1,4 @@
-[![Shields]](https://img.shields.io/github/issues/Just-a-Unity-Dev/mods)
+[![Shields](https://img.shields.io/github/issues/Just-a-Unity-Dev/mods)
 
 # Mods
 A repository for all of the mods I have made in different games.
